@@ -41,17 +41,7 @@ public class Main {
 	button.addActionListener(new ActionListener() {
         @Override
         public void actionPerformed(ActionEvent actionEvent) {
-            /*
-            a1.setText("");
-            a2.setText("");
-            a3.setText("");
-            b1.setText("");
-            b2.setText("");
-            b3.setText("");
-            c1.setText("");
-            c2.setText("");
-            c3.setText("");
-              */
+
 
             int a1_parse = Integer.parseInt(a1.getText());
             int a2_parse = Integer.parseInt(a2.getText());
